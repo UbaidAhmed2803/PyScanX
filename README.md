@@ -19,12 +19,11 @@ pip install -r requirements.txt
 
 ## Usage
 
-git clone https://github.com/UbaidAhmed2803/PyScanX
 
 1. Clone the PyScanX repository to your local machine:
 
 ```shell
-git clone https://github.com/your-username/PyScanX.git
+git clone https://github.com/UbaidAhmed2803/PyScanX
 ```
 
 2. Change into the PyScanX directory:
